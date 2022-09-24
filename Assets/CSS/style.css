@@ -1,8 +1,8 @@
 /* starter code provided for assignment */
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  line-height: 1;
+  font-size: 22px;
+  line-height: 3;
 }
 
 textarea{
@@ -17,13 +17,20 @@ textarea{
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: blue;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
 
-.description{
+.form-input{
   white-space: pre-wrap;
+  background-color: rgb(253, 253, 218);
+  color: purple;
+  width: 95%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+  border-radius: 15px;
 }
 
 .time-block{
@@ -32,14 +39,22 @@ textarea{
 }
 
 .row {
-  white-space: pre-wrap;
-  height: 80px;
+  background-color: white;
+  white-space: wrap;
+  height: 100%;
   border-top: 1px solid white;;
 }
 
-.hour {
-  background-color: #ffffff;
+main {
+  margin: 3rem auto;
+  max-width: 90vw;
+  width: 50ch;
+}
+
+.timeslot {
+  background-color: #cfb3b3;
   color: #000000;
+  font-size: 50px;
   border-top: 1px dashed #000000;
 }
 
@@ -58,15 +73,41 @@ textarea{
   color: white;
 }
 
-.saveBtn {
-  border-left: 1px solid black;
+.saveBtn i:hover {
+  font-size: 30px;
+  transition: all .3s ease-in-out;
+}
+
+.tslot{
+  white-space: pre-wrap;
+  background-color: rgb(238, 250, 201);
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+  color: #000000;
+  font-size: 50px;
+}
+
+.sslot {
+  border-left: 1px solid green;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
-  color: white;
+  color: #000000;
+  font-size: 50px;
 }
 
-.saveBtn i:hover {
-  font-size: 20px;
-  transition: all .3s ease-in-out;
+/* try table */
+table{
+  width: 90%;
+  margin: 30px 0;
+  border-collapse: collapse;
+  background-color: rgb(238, 250, 201);
+}
+table, th, td{
+  border: 1px solid #110f3d;
+}
+table th, table td{
+  padding: 2px;
+  text-align: left;
 }

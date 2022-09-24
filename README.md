@@ -10,21 +10,22 @@ Help an employee manage their busy schedule by allowing them to add events to a 
 Additional Expectations:
   The current day is displayed at the top of the calendar
   Timeblocks are presented for standard business hours
-  Time blocks are color coded for past, present and future.
-  Timeblocks are clickable to enter the event.
+  Time blocks are color coded for past, present and future
+  Timeblocks are clickable to enter the event
   Text can be added and saved to local storage with a save button
   If the page is refreshed the saved events are not cleared
     
 Assignment Example Picture:
-    ![color coded event calendar that allows editing](.Assets/Example.png)
-
+    ![Site Example](./Assets/Images/Website1.JPG)
+    
 Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/UofA-Module5-WorkDayScheduler-LSandura
 
 Git Repository Site that shows finalized projectresults:
-
+    https://laurabora118.github.io/UofA-Module5-WorkDayScheduler-LSandura/
     
 References:
     1 - Assignment criteria and starter code was received in UofA assignment 
 
     2 - Moment.js (https://momentjs.com/)
+
