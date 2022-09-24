@@ -602,3 +602,5 @@ addButtonfiveEl.on('click', function () {
   alert('Clicking OK will add into your scheduler details');
   });
 
+
+//commit for live page
