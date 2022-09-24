@@ -28,6 +28,6 @@ Git Repository Site that shows finalized project results:
     
 References:
     1 - Assignment criteria and starter code was received in UofA assignment 
-
     2 - Moment.js (https://momentjs.com/)
+
 
