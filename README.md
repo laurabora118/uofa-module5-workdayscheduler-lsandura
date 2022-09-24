@@ -15,13 +15,15 @@ Additional Expectations:
   Text can be added and saved to local storage with a save button
   If the page is refreshed the saved events are not cleared
     
-Assignment Example Picture:
+Assignment Example Pictures:
     ![Site Example](./Assets/Images/Website1.JPG)
+Assignment Example with some tasks:
+    ![Site Example](./Assets/Images/Website2.JPG)
     
-Repository link where finalzed project can be pulled:
+Repository link where finalized project can be pulled:
     https://github.com/laurabora118/UofA-Module5-WorkDayScheduler-LSandura
 
-Git Repository Site that shows finalized projectresults:
+Git Repository Site that shows finalized project results:
     https://laurabora118.github.io/UofA-Module5-WorkDayScheduler-LSandura/
     
 References:
