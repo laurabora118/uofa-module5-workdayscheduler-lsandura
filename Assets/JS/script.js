@@ -8,19 +8,7 @@
 //already have style sheets classes
 //just need to work on the javascript that will inject your day hours into the application
 
-// //For date and time
-// date = new Date().toLocaleDateString();
-// document.write(date) $('input[task-date]').val('');
-// console.log(date);
-
-/* Sets up the date only*/
-// function theDate() {
-//   let Date = moment().format('dddd, MMMM Do YYYY');
-//   console.log(Date)
-//   $("#dateSpot").text(Date);
-// }
-// theDate();
-
+//time
 function theTime() {
   let localTime = moment();
   console.log(localTime.format());
@@ -29,23 +17,7 @@ function theTime() {
 }
 theTime();
 
-// const moment = require('moment');
-// let now = moment();
-// console.log(now.format());
-//Return a number representing the current time.
-// var time = jQuery.now('#time');
-// function time() {
-//   if jQuery.now()
-// }
-//consider to consolidate with a render function
-// function renderTasks(tasks, number) {
-// }
-// taskListEl.push({
-// })
-//consider local storage as array for multiple tasks
 var rootEl = $('#root');
-
-//function for time compared to hours
 
 // //NINE--------------------------------------------------------------------------
 $(document).ready(function(){
