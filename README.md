@@ -16,9 +16,9 @@ Additional Expectations:
   If the page is refreshed the saved events are not cleared
     
 Assignment Example Pictures:
-    ![Site Example](./Assets/Images/website1.JPG)
+    ![Site Example](./assets/images/website1.JPG)
 Assignment Example with some tasks:
-    ![Site Example](./Assets/Images/website2.JPG)
+    ![Site Example](./assets/images/website2.JPG)
     
 Repository link where finalized project can be pulled:
     https://github.com/laurabora118/UofA-Module5-WorkDayScheduler-LSandura
@@ -29,6 +29,8 @@ Git Repository Site that shows finalized project results:
 References:
     1 - Assignment criteria and starter code was received in UofA assignment 
     2 - Moment.js (https://momentjs.com/)
+
+
 
 
 
