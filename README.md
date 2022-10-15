@@ -21,10 +21,10 @@ Assignment Example with some tasks:
     ![Site Example](./assets/images/website2.JPG)
     
 Repository link where finalized project can be pulled:
-    https://github.com/laurabora118/UofA-Module5-WorkDayScheduler-LSandura
+    https://github.com/laurabora118/uofa-module5-workdayscheduler-lsandura
 
 Git Repository Site that shows finalized project results:
-    https://laurabora118.github.io/UofA-Module5-WorkDayScheduler-LSandura/
+    https://laurabora118.github.io/uofa-module5-workdayscheduler-lsandura
     
 References:
     1 - Assignment criteria and starter code was received in UofA assignment 
